@@ -16909,3 +16909,4 @@ window.onload=function()
 		else loadLangAndLaunch(lang);
 	}
 };
+Game.OpenSesame();
